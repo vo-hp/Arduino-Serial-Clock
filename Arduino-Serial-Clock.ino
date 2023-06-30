@@ -23,7 +23,7 @@ void loop() {
           Serial.print(":");
         }
       Serial.println(m);
-      delay(50); //
+      delay(1000); 
     }
   }
 }
